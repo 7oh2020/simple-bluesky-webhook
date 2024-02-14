@@ -1,0 +1,7 @@
+dist
+tmp
+
+# log files
+
+*.log
+*.txt
